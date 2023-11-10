@@ -36,7 +36,8 @@
 
 ### Prerequisites
 
-Java 17+
+Java 17  
+Spring Boot 3.1.5
 
 ## Running the tests
 
